@@ -1,6 +1,6 @@
 # Bonjour, je suis James Boutaric 👋
 
-Étudiant en 3ᵉ année de BUT Informatique, admis en Master 1 pour la rentrée 2026, et actuellement en alternance en tant que **Développeur Full Stack**.
+Étudiant en 3ᵉ année de BUT Informatique, admis en Master 1 pour la rentrée 2026, et actuellement en recherche d'alternance en tant que **Développeur Full Stack**.
 
 - 🔭 En alternance chez **Bigben Connected** — refonte d'une plateforme de gestion de garanties (React + Laravel)
 - 🧩 Développement d'interfaces, de composants réutilisables et intégration d'API avec l'équipe back-end
