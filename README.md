@@ -5,7 +5,6 @@
 - 🔭 En alternance chez **Bigben Connected** — refonte d'une plateforme de gestion de garanties (React + Laravel)
 - 🧩 Développement d'interfaces, de composants réutilisables et intégration d'API avec l'équipe back-end
 - 🎓 Projets universitaires : application complète de gestion de stages (React, Laravel, SQL, API REST)
-- 🤖 Utilisateur quotidien de **Claude Code** et **ChatGPT** pour accélérer et fiabiliser mon développement
 - 🌱 Toujours curieux de découvrir de nouveaux outils pour améliorer mes pratiques
 - 📍 Paris, France
 
@@ -29,8 +28,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 💼 Projets marquants
 
