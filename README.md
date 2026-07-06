@@ -7,7 +7,7 @@
 - 🎓 Projets universitaires : application complète de gestion de stages (React, Laravel, SQL, API REST)
 - 🤖 Utilisateur quotidien de **Claude Code** et **ChatGPT** pour accélérer et fiabiliser mon développement
 - 🌱 Toujours curieux de découvrir de nouveaux outils pour améliorer mes pratiques
-- 📍 Arpajon, France
+- 📍 Paris, France
 
 ## 🛠️ Compétences techniques
 
