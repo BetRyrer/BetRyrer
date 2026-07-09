@@ -7,12 +7,11 @@
 - 🎓 Projets universitaires : application complète de gestion de stages (React, Laravel, SQL, API REST)
 - 🌱 Toujours curieux de découvrir de nouveaux outils pour améliorer mes pratiques
 - 📍 Paris, France
+- 🌐 Mon site : [ton-site.com](https://ton-site.com)
 
 ## 🛠️ Compétences techniques
 
 **Langages & Frameworks**
-
-## Langages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,3 +46,4 @@
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-james.boutaric%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.boutaric@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesboutaric.vercel.app/)
