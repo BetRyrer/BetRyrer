@@ -7,7 +7,7 @@
 - 🎓 Projets universitaires : application complète de gestion de stages (React, Laravel, SQL, API REST)
 - 🌱 Toujours curieux de découvrir de nouveaux outils pour améliorer mes pratiques
 - 📍 Paris, France
-- 🌐 Mon site : [ton-site.com](https://ton-site.com)
+- 🌐 Mon site : (https://jamesboutaric.vercel.app/)
 
 ## 🛠️ Compétences techniques
 
