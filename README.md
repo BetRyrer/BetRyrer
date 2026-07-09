@@ -42,8 +42,8 @@
 - **Refonte plateforme de gestion de garanties** — React & Laravel, en équipe chez Bigben Connected
 - **Application de gestion de stages** — React, Laravel, SQL, API REST (projet universitaire)
 - **Site WordPress** pour un événement interne d'entreprise
+- **[Prep Alternance](https://prep-alternance.vercel.app/)** — site d'entraînement aux entretiens techniques et à la recherche d'alternance (React)
 
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-james.boutaric%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.boutaric@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesboutaric.vercel.app/)
