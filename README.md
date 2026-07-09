@@ -40,9 +40,10 @@
 ## 💼 Projets marquants
 
 - **Refonte plateforme de gestion de garanties** — React & Laravel, en équipe chez Bigben Connected
-- **Application de gestion de stages** — React, Laravel, SQL, API REST (projet universitaire)
+- **[Application de gestion de stages](https://stage-manager.fr/login)** — React, Laravel, SQL, API REST (projet universitaire)
 - **Site WordPress** pour un événement interne d'entreprise
 - **[Prep Alternance](https://prep-alternance.vercel.app/)** — site d'entraînement aux entretiens techniques et à la recherche d'alternance (React)
+- **[Budgy](https://lien-du-projet)** — application de gestion de budget personnel : suivi des revenus/dépenses, catégories et graphiques d'évolution mensuelle (React + Symfony)
 
 ## 📫 Me contacter
 
