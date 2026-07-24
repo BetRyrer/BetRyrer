@@ -46,7 +46,7 @@
 - **Refonte plateforme de gestion de garanties** — React & Laravel, en équipe chez Bigben Connected
 - **[Application de gestion de stages](https://stage-manager.fr/login)** — React, Laravel, SQL, API REST (projet universitaire)
 - **Site WordPress** pour un événement interne d'entreprise
-- **[AlternanceTracker](https://alternance-tracker-two.vercel.app/)** — suivi de candidatures d'alternance avec authentification et export Excel (Next.js, TypeScript, PostgreSQL, Docker)
+- **[Postuly](https://alternance-tracker-two.vercel.app/)** — suivi de candidatures d'alternance avec authentification et export Excel (Next.js, TypeScript, PostgreSQL, Docker)
 - **[Prep Alternance](https://prep-alternance.vercel.app/)** — site d'entraînement aux entretiens techniques et à la recherche d'alternance (React)
 - **[Budgy](https://lien-du-projet)** — application de gestion de budget personnel : suivi des revenus/dépenses, catégories et graphiques d'évolution mensuelle (React + Symfony)
 
